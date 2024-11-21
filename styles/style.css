@@ -417,7 +417,6 @@
   box-shadow: 2px 2px 0px 0px var(--text-color, #000);
 }
 
-
 .image__contrast {
   filter: contrast(20%);
 }
